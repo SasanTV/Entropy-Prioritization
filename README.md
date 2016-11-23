@@ -1,10 +1,10 @@
 # Entropy-Prioritization
 
-This repository contains data and codes for the below paper:
+This repository contains the data and codes for the below paper:
 
 Tavakkol, Sasan, Hien To, Seon Ho Kim, Patrick Lynett, and Cyrus Shahabi. "An Entropy-based Framework for Efficient Post-disaster Assessment Based on Crowdsourced Data."
 
-Niether the data, nor the codes may not be the final versions used in the paper. Following disclaime, borrowed from GNU, applies to this repository:
+Niether the data, nor the codes may not be the final versions used in the paper. Following disclaimer, borrowed from GNU, applies to this repository:
 
 Disclaimer of Warranty.
 
